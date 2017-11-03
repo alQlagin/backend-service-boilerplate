@@ -1,0 +1,10 @@
+{
+  "http":{
+    "host": "localhost",
+    "port": 8888,
+  }
+  "db": {
+    "connection": "mongodb://localhost:27017",
+    "name": "vet-academy",
+ }
+}
